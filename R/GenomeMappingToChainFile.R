@@ -22,7 +22,7 @@
 #' @return writes a chain file into directory
 #'
 #' @import S4Vectors
-#' @importFrom GenomeInfoDb seqnames seqlengths
+#' @importFrom Seqinfo seqnames seqlengths
 #' @importFrom methods as
 #' @importFrom magrittr '%>%'
 #' @importFrom utils write.table

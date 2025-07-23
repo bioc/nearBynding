@@ -38,7 +38,7 @@
 #'}
 #'
 #' @importFrom S4Vectors elementMetadata
-#' @importFrom GenomeInfoDb seqnames
+#' @importFrom Seqinfo seqnames
 #' @importFrom plyranges filter
 #' @importFrom utils write.table read.table
 #' @importFrom dplyr filter
